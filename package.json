@@ -1,0 +1,25 @@
+{
+  "name": "validador-de-campos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasnascimento-dev/validador-de-campos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasnascimento-dev/validador-de-campos/issues"
+  },
+  "homepage": "https://github.com/lucasnascimento-dev/validador-de-campos#readme",
+  "dependencies": {
+    "validator": "^13.7.0",
+    "vite": "^4.0.4"
+  }
+}
